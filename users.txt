@@ -1,0 +1,7 @@
+1,BarackObama
+2,ladygaga
+3,jeresig
+4,justinbieber
+6,matei_zaharia
+7,odersky
+8,anonsys
